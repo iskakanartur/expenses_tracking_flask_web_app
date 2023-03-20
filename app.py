@@ -1,5 +1,3 @@
-################################# #EXPENSES LATEST MODIFICATIONS ############################
-
 
 # https://www.youtube.com/watch?v=DRWRq3ad0pI
 # https://github.com/parwiz123/flaskec2/blob/main/app.py
