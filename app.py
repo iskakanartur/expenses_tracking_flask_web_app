@@ -40,7 +40,6 @@ import psycopg2
 app = Flask(__name__)
 
 ## CHnages this secrets see app1.oy os get 
-# app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://turo:HayastaN77@127.0.0.1/flaskaws'
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:TraCak45@localhost/expenses'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
